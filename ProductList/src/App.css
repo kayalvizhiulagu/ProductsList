@@ -1,0 +1,16 @@
+body {
+  background-color: #EAEAEA !important;
+ }
+ h1.text-center {
+  font-family: emoji;
+}
+thead {
+  background-color:#96588A;
+  color: white;
+  font-family: sans-serif;
+}
+td {
+  font-family: serif;
+  background-color: #9F8FAE !important;
+  font-size: medium;
+}
